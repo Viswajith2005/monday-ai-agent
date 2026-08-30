@@ -14,7 +14,10 @@ ENV/
 .venv/
 
 # Streamlit logs & cache
-.streamlit/
+.streamlit/logs/
+
+# Test browser artifacts
+.playwright-mcp/
 
 # IDE files
 .vscode/
